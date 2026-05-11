@@ -43,7 +43,7 @@ This Python-based habit tracker helps users create, monitor, and analyze daily a
 - Unit tests for analytics and database modules are included.
 - Execute tests using:
   ```bash
-  pytest
+  pythom -m pytest
   ```
 
 ## Reference
