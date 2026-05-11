@@ -30,7 +30,7 @@ class Database:
     def seed_data(self):
         cursor = self.connection.cursor()
         habits = [
-            ("Morning Exercise", "20+ minutes of physical activity", "Daily", "2026-05-01"),
+            ("Morning Exercise", "30+ minutes of physical activity", "Daily", "2026-05-01"),
             ("Mindful Check-in", "5 minutes of journaling or meditation", "Daily", "2026-05-01"),
             ("Deep Work Block", "90 minutes of distraction-free work", "Daily", "2026-05-01"),
             ("Weekly Life Review", "Review past-week goals and plan ahead", "Weekly", "2026-05-01"),
