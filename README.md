@@ -46,5 +46,4 @@ This Python-based habit tracker helps users create, monitor, and analyze daily a
   pythom -m pytest
   ```
 
-## Reference
-Some ideas adapted/inspired by similar projects. Please check the credits section or accompanying documentation for further details.
+The images and a short video on the system is in the assets folder
