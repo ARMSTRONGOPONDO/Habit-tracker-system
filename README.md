@@ -46,4 +46,26 @@ This Python-based habit tracker helps users create, monitor, and analyze daily a
   pythom -m pytest
   ```
 
-The images and a short video on the system is in the assets folder
+## Screenshots
+
+- **Dashboard**
+
+  ![Dashboard](assets/dashboard.png)
+
+- **Analytics**
+
+  ![Analytics](assets/analytics.png)
+
+- **Habits & Streaks**
+
+  ![Habits and Streaks](assets/habits%20streaks.png)
+
+- **Login**
+
+  ![Login](assets/Login.png)
+
+## Demo Video
+
+A short demo video is included in the `assets` folder:
+
+- `assets/20260525-0722-11.2756558.mp4`
